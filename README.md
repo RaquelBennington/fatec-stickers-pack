@@ -1,6 +1,6 @@
 # fatec-Stickers-pack
 
-## Stickers Pack [Site:](https://fatec-stickers-pack.netlify.app/)
+## Site [Stickers Pack](https://fatec-stickers-pack.netlify.app/)
 
 ## Build Setup
 
